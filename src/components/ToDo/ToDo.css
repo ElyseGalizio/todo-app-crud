@@ -1,0 +1,27 @@
+.todo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background: #FFF;
+    padding: 0px 30px;
+    border: 1px solid #DEDEDE;
+    border-radius: 2px;
+}
+
+.todo-delete-button {
+    background: #D23342;
+    border: none;
+    color: #fff;
+    height: 24px;
+    width: 60px;
+    font-weight: 800;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
+
+.original {
+    text-decoration: none;
+}

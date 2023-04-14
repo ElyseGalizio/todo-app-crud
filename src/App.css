@@ -1,5 +1,20 @@
+body {
+  background: #FFFAF0;
+}
+
+input {
+  width: 260px;
+  height: 34px;
+  border-radius: 4px;
+  padding-left: 20px;
+  background: #FFF;
+  border: 1px solid #DEDEDE;
+}
+
 .App {
   text-align: center;
+  max-width: 600px;
+  margin: auto;
 }
 
 .App-logo {
@@ -32,6 +47,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

@@ -1,0 +1,15 @@
+.todolist-form {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.todolist-button {
+    height: 36px;
+    width: 120px;
+    border: none;
+    color: #fff;
+    background: green;
+    font-weight: 700;
+}
